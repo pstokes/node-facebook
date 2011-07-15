@@ -1,0 +1,10 @@
+{ "name" :            "node-facebook"
+    , "description" :     "A quick and dirty node.js webserver for parsing Facebook's signed request data."
+    , "version" :    "0.0.1"
+    , "dependencies": {
+        "qs": "0.0.6"
+    }
+    , "repository" :    { "type" :  "git"
+                        , "url" :   "https://github.com/pstokes/node-facebook" }
+    , "engines" :       { "node" : ">=0.4.0" }
+}
