@@ -150,5 +150,5 @@ function base64_decode (data) {
     return dec;
 }
 
-console.log("Server running at http://dev.buddymedia.com:" + port + "/");
+console.log("Server running at http://localhost:" + port + "/");
 
